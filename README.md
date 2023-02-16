@@ -1,5 +1,5 @@
 # Quantum Metric Tensor
-A version of the Wolfram Mathematica code used in my PhD project to compute the Quantum Metric Tensor, its determinant, and its scalar curvature for the anisotropic Lipkin-Meshkov-Glick model. The Hamiltonian is
+A version of the Wolfram Mathematica code used in one of my PhD projects to compute the Quantum Metric Tensor, its determinant, and its scalar curvature for the anisotropic Lipkin-Meshkov-Glick model. The Hamiltonian is
 
 $$ \hat{H} = -2 h \hat{J}_z - \frac{1}{j} (\hat{J}_x^2 + \gamma \hat{J}_y^2), $$
 
