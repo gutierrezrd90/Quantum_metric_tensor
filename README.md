@@ -3,7 +3,7 @@ A version of the Wolfram Mathematica code used in my PhD project to compute the 
 
 $$ \hat{H} = -2 h \hat{J}_z - \frac{1}{j} (\hat{J}_x^2 + \gamma \hat{J}_y^2), $$
 
-the parameters are $x={x^i}=(h,\gamma)$, and the corresponding deformation operators are
+the parameters are $x=(h,\gamma)$, and the corresponding deformation operators are
 
 $$ \hat{O}_h = \frac{\partial \hat{H}}{\partial h} = -2\hat{J}_z, $$
 
